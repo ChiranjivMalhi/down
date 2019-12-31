@@ -147,7 +147,8 @@
         document.getElementById("3p").innerHTML = "Download our newest verison of BRL-CAD for Macintosh OS";
         document.getElementById("1").innerHTML = "Linux";
         document.getElementById("1m").src="img/lin.png";
-        document.getElementById("ll").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Linux/";
+        document.getElementById("1l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Linux/";
+        document.getElementById("1p").innerHTML = "Download our newest verison of BRL-CAD for Linux";
         document.getElementById("4").innerHTML = "BSD";
         document.getElementById("4m").src="img/bsd.png";
         document.getElementById("4l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20BSD/";
