@@ -92,6 +92,7 @@
         else if (OS_Name.indexOf("SunOS") != -1) {
         name="sol";
         }
+        }
         if (name=="win"){
         document.getElementById("1").innerHTML = "Windows";
         document.getElementById("1m").src="img/win.png";
