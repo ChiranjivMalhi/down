@@ -136,7 +136,7 @@
         document.getElementById("5l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Solaris/";
         document.getElementById("5p").innerHTML = "Download our newest verison of BRL-CAD for Solaris OS";
         }
-        else if (name=="BSD"){
+        else if (name=="linux"){
         document.getElementById("2").innerHTML = "Windows";
         document.getElementById("2m").src="img/win.png";
         document.getElementById("2l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Windows/";
@@ -147,7 +147,7 @@
         document.getElementById("3p").innerHTML = "Download our newest verison of BRL-CAD for Macintosh OS";
         document.getElementById("1").innerHTML = "Linux";
         document.getElementById("1m").src="img/lin.png";
-        document.getElementById("1l").href= "https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Linux/";
+        document.getElementById("1l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Linux/";
         document.getElementById("1p").innerHTML = "Download our newest verison of BRL-CAD for Linux";
         document.getElementById("4").innerHTML = "BSD";
         document.getElementById("4m").src="img/bsd.png";
@@ -158,7 +158,7 @@
         document.getElementById("5l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Solaris/";
         document.getElementById("5p").innerHTML = "Download our newest verison of BRL-CAD for Solaris OS";
         }
-        else if (name=="linux"){
+        else if (name=="BSD"){
         document.getElementById("4").innerHTML = "Windows";
         document.getElementById("4m").src="img/win.png";
         document.getElementById("4l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Windows/";
