@@ -97,7 +97,7 @@
         document.getElementById("1m").src="img/win.png";
         document.getElementById("1l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Windows/";
         document.getElementById("1p").innerHTML = "Download our newest verison of BRL-CAD for Windows";
-        document.getElementById("2").innerHTML = "MAC OS";
+        document.getElementById("2").innerHTML = "macOS";
         document.getElementById("2m").src="img/apple.svg";
         document.getElementById("2l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Mac%20OS%20X/";
         document.getElementById("2p").innerHTML = "Download our newest verison of BRL-CAD for Macintosh OS";
@@ -119,7 +119,7 @@
         document.getElementById("2m").src="img/win.png";
         document.getElementById("2l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Windows/";
         document.getElementById("2p").innerHTML = "Download our newest verison of BRL-CAD for Windows";
-        document.getElementById("1").innerHTML = "MAC OS";
+        document.getElementById("1").innerHTML = "macOS";
         document.getElementById("1m").src="img/apple.svg";
         document.getElementById("1l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Mac%20OS%20X/";
         document.getElementById("1p").innerHTML = "Download our newest verison of BRL-CAD for Macintosh OS";
@@ -141,7 +141,7 @@
         document.getElementById("2m").src="img/win.png";
         document.getElementById("2l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Windows/";
         document.getElementById("2p").innerHTML = "Download our newest verison of BRL-CAD for Windows";
-        document.getElementById("3").innerHTML = "MAC OS";
+        document.getElementById("3").innerHTML = "macOS";
         document.getElementById("3m").src="img/apple.svg";
         document.getElementById("3l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Mac%20OS%20X/";
         document.getElementById("3p").innerHTML = "Download our newest verison of BRL-CAD for Macintosh OS";
@@ -163,7 +163,7 @@
         document.getElementById("4m").src="img/win.png";
         document.getElementById("4l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Windows/";
         document.getElementById("4p").innerHTML = "Download our newest verison of BRL-CAD for Windows";
-        document.getElementById("2").innerHTML = "MAC OS";
+        document.getElementById("2").innerHTML = "macOS";
         document.getElementById("2m").src="img/apple.svg";
         document.getElementById("2l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Mac%20OS%20X/";
         document.getElementById("2p").innerHTML = "Download our newest verison of BRL-CAD for Macintosh OS";
@@ -185,7 +185,7 @@
         document.getElementById("5m").src="img/win.png";
         document.getElementById("5l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Windows/";
         document.getElementById("5p").innerHTML = "Download our newest verison of BRL-CAD for Windows";
-        document.getElementById("2").innerHTML = "MAC OS";
+        document.getElementById("2").innerHTML = "macOS";
         document.getElementById("2m").src="img/apple.svg";
         document.getElementById("2l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Mac%20OS%20X/";
         document.getElementById("2p").innerHTML = "Download our newest verison of BRL-CAD for Macintosh OS";
