@@ -126,6 +126,7 @@
         document.getElementById("3").innerHTML = "Linux";
         document.getElementById("3m").src="img/lin.png";
         document.getElementById("3p").innerHTML = "Download our newest verison of BRL-CAD for Linux";
+        document.getElementById("3l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Linux/";
         document.getElementById("4").innerHTML = "BSD";
         document.getElementById("4m").src="img/bsd.png";
         document.getElementById("4l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20BSD/";
