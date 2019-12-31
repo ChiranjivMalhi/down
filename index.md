@@ -158,7 +158,7 @@
         document.getElementById("5l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Solaris/";
         document.getElementById("5p").innerHTML = "Download our newest verison of BRL-CAD for Solaris OS";
         }
-        else if (name=="solaris"){
+        else (name=="solaris"){
         document.getElementById("5").innerHTML = "Windows";
         document.getElementById("5m").src="img/win.png";
         document.getElementById("5l").href="https://sourceforge.net/projects/brlcad/files/BRL-CAD%20for%20Windows/";
