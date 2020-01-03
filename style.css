@@ -124,13 +124,14 @@ a.menu{
 }
 
 /**First**/
-.about{
+
+.about {
     left: 64px;
     padding: 25px;
     font-size: 1.278rem;
-    background: #2d2d2d;
     text-align: center;
-    height: 350px;
+    height: 175px;
+    background-image: url("img/p5.png");
 }
 .tessellactation-container{
     /* FIXME: figure out how to position the canvas beneath the intro1 and header/menu elements */
@@ -144,9 +145,8 @@ a.menu{
 }
 .main-h1{
     font-family: Intro, Segoe UI, Open Sans, Arial, sans-serif;
-    font-size: 5.556rem;
+    font-size: 4rem;
     color: #2d2d2d;  /* #2c3e50; */
-    margin-top: 20px;
 }
 .brl{
     position: relative;
@@ -214,10 +214,10 @@ a.menu{
     font-family: Segoe UI, Open Sans, Arial, sans-serif;
     font-size: 1.67rem;
 }
-.wrapper-main{
+.wrapper-main {
     width: 60%;
     margin: 0px auto;
-    padding-top: 40px;
+    padding-top: 15px;
 }
 .icon-table{
     max-width:1200px;
